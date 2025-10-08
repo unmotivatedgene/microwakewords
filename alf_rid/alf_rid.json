@@ -1,8 +1,8 @@
 {
   "type": "micro",
   "wake_word": "alf_rid",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
+  "author": "unmotivatedgene",
+  "website": "https://github.com/unmotivatedgene/microwakewords/tree/main/alf_rid",
   "model": "alf_rid.tflite",
   "trained_languages": [
     "en"
